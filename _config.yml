@@ -7,19 +7,17 @@ permalink:        pretty
 
 # Setup
 title:            閒燴
-tagline:          'Yummies From Scratch'
-description:      '悠閒烹飪著健康喜愛的食物給親朋好友是一種溫馨的幸福'
+tagline:          Yummies From Scratch
+description:      悠閒烹飪著健康喜愛的食物給親朋好友是一種溫馨的幸福
 url:              http://www.yummiesfromscratch.com
 baseurl:          /
 
 author:
-  name:           'Serena Li'
+  name:           Serena Li
   url:            https://twitter.com/totoro538
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
+excerpt_separator "\n\n\n"
 
-github:
-  repo:           http://github.com/yummiesfromscratch/yummiesfromscratch.github.io
+# Custom vars
