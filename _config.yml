@@ -18,6 +18,6 @@ author:
 
 paginate:         5
 
-excerpt_separator "\n\n\n"
+excerpt_separator: "\n\n\n"
 
 # Custom vars
