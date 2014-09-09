@@ -1,30 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+每一道料理，糕點，都有流傳著『它』的故事
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+借尋這些美味的由來，讓我們也續篇著我們的日記
 
-There are currently two themes built on Poole:
+Just like 90% of folks living in Silicon Valley, I also work in high tech.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Having worked 12 years at the same tech company following college, I took time off and bought a bakery. Crazy huh…  not really considering it was still the cheaper option to attending B-school.  :)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I am now back in the work force and with a very environmental and health conscious husband who wants to know how cave men/women lived. Any free time we have, I research on how things were made FROM SCRATCH.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Hopefully these wonderful dishes and the natural tastes can continue to be made from scratch in the many kitchens around us.
