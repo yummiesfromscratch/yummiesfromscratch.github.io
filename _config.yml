@@ -20,4 +20,6 @@ paginate:         5
 
 excerpt_separator: "\n\n\n"
 
+exclude: ["vendor"]
+
 # Custom vars
