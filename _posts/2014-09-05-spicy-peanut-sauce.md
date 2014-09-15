@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spicy Peanut Sauce for Summer Rolls (Gỏi cuốn)
+title: Gỏi cuốn (Spicy Peanut Sauce)
 ---
 
 ![Spicy Peanut Sauce][1]
