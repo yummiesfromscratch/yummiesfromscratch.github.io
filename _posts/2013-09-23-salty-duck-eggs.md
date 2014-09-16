@@ -2,7 +2,7 @@
 layout: post
 title: Salty Duck Eggs (鹹鴨蛋)
 image:
-  teaser: 
+  teaser: http://www.smugmug.com/photos/i-bK8qH5w/1/L/i-bK8qH5w-L.jpg
 ---
 
 中秋節快到了．Moon cake time! 講到月餅就想到包在月餅裡香香油油的鹹鴨蛋．Salty duck eggs have been known to be a way of preserving duck eggs since the 5th century or earlier. 南北朝時期早已大量醃製，而且可以久藏．There are various ways of making salty duck eggs: 黃沙醃法 (yellow sand), 鹽水醃製法 (salt bath), 白酒浸製法 (white wine), 辣醬醃法 (chili).

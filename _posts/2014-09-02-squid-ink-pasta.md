@@ -2,7 +2,7 @@
 layout: post
 title: Squid Ink Pasta
 image:
-  teaser: 
+  teaser: http://www.smugmug.com/photos/i-wsLHvgn/1/L/i-wsLHvgn-L.jpg
 ---
 
 Squid Ink pasta has become a trendy and popular dish in the US. This has become a favorite of mine as well as lots of my friends. The ‘seafood umami’ taste that the squid ink adds to the egg rich noodle is a definite plus.
