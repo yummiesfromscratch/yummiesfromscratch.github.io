@@ -16,7 +16,7 @@ Make sure you use good quality mustard and mayonnaise. Or you can make your own 
 
 ### Ingredients
 - 3 cloves garlic, minced
-- 1/4 cup mayonnaise or olive oil
+- <sup>1</sup>&frasl;<sub>4</sub> cup mayonnaise or olive oil
 - 1 egg yolk
 - 1 tbsp anchovy paste
 - 3 tbsp grated parmesan cheese

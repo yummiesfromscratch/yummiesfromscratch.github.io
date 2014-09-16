@@ -14,7 +14,7 @@ For now, my uncle has adapted this recipe to something more practical for urban 
 
 ### Ingredients
 - 1 packet of dry raw skin peanuts (12 oz/340 g)
-- 1/4 cup of salt
+- <sup>1</sup>&frasl;<sub>4</sub> cup of salt
 
 ### Instructions
 1. Cover peanuts with water and add salt.

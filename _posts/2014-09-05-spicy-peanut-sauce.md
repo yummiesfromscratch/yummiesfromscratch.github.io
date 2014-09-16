@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gỏi cuốn (Spicy Peanut Sauce)
+title: Nước Lèo (Spicy Peanut Sauce)
 image:
   teaser: http://totoro538.smugmug.com/Yummiesfromscratch/i-JsNWnpF/0/O/2014-09-05-spicy-peanut-sauce-720x100.jpg
 ---
@@ -11,17 +11,17 @@ This is an absolute must-have when you make Spring/Summer rolls. The smell of th
 ![Spicy Peanut Sauce][1]
 
 ### Ingredients
-- 1/2 cup natural-style creamy peanut butter
+- <sup>1</sup>&frasl;<sub>2</sub> cup natural-style creamy peanut butter
 - 2 medium garlic cloves, peeled and minced
 - 1 tbsp soy bean paste
 - 1 tbsp tomato paste
-- 1/3 cup water
+- <sup>1</sup>&frasl;<sub>3</sub> cup water
 - 2 tsp granulated sugar
 - 1 bird chile, trimmed and minced
 - 1 tbsp lime juice
 - 2 tsp soy sauce
 - 1 tbsp tamarind (optional)
-- 1/4 cup dry roasted peanuts (processed until coarse powder), [recipe here][2]
+- <sup>1</sup>&frasl;<sub>4</sub> cup dry roasted peanuts (processed until coarse powder), [recipe here][2]
 
 Yield: 2 cups
 
