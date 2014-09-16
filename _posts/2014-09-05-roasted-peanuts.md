@@ -19,11 +19,11 @@ For now, my uncle has adapted this recipe to something more practical for urban 
 ### Instructions
 1. Cover peanuts with water and add salt.
 1. Soak in salt water for 30 min.
-1. Roast in toaster oven 400F for 8 min.
+1. Roast in toaster oven 400&deg;F for 8 min.
 1. Shake the peanuts so they come loose from the pan.
-1. Roast in toaster over 350F for another 8 min.
+1. Roast in toaster over 350&deg;F for another 8 min.
 1. Again, shake the peanuts so that they are rotated.
-1. Roast in toaster oven at 300F for another 15 min, in 5 min incremental and shaking the pan so that the peanuts are rotated for even roasting.
+1. Roast in toaster oven at 300&deg;F for another 15 min, in 5 min incremental and shaking the pan so that the peanuts are rotated for even roasting.
 1. Let peanuts completely cool down before serving.
 
 ![Skinned Peanuts][2]
