@@ -1,0 +1,10 @@
+.sidebar-about-avatar {
+  margin: auto;
+  width: 6.5rem; /* width of title */
+}
+
+@media (min-width: 48em) {
+  .sidebar-about-avatar {
+    margin: 0;
+  }
+}
