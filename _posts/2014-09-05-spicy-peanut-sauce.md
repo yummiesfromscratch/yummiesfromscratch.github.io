@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Gỏi cuốn (Spicy Peanut Sauce)
+image:
+  teaser: http://totoro538.smugmug.com/Yummiesfromscratch/i-JsNWnpF/0/O/2014-09-05-spicy-peanut-sauce-720x100.jpg
 ---
-
-![Spicy Peanut Sauce][1]
 
 This is an absolute must-have when you make Spring/Summer rolls. The smell of the freshly grounded peanuts ([I always roast and grind my own][2]) is just so aromatic for you peanut lovers.
 
+
+![Spicy Peanut Sauce][1]
 
 ### Ingredients
 - 1/2 cup natural-style creamy peanut butter

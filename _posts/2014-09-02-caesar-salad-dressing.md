@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Caesar Salad Dressing
+image:
+  teaser: http://totoro538.smugmug.com/Yummiesfromscratch/i-5Jgxh3C/0/O/2014-09-02-caesar-salad-dressing-720x100.jpg
 ---
-
-![Caesar Salad][1]
 
 This is one of my favorite salad to order at the restaurant. It is such a classic dish that if a restaurant cannot be bothered with making their own dressing, a minus star I take away from my Yelp review of the restaurant.
 
+
+![Caesar Salad][1]
 
 There has been dispute over the “real creator” of the dish. However, Julia Child’s childhood memories of eating Caesar Salad at Caesar Cardini’s restaurant probably is enough substantial proof. Cardini’s daughter recounted that her father ‘made do’ with what was left in the kitchen on 4th of July 1924 to come up with this now most popular salad dish.
 
