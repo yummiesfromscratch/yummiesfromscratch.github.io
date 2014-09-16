@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nước Mắm Chấm (Fish Sauce)
+title: Nước Mắm Chấm (Vietnamese Dipping Sauce)
 image:
   teaser: 
 ---
