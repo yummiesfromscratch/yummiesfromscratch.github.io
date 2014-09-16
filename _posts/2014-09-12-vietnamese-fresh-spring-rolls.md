@@ -2,7 +2,7 @@
 layout: post
 title: Gỏi Cuốn (Vietnamese Fresh Spring Rolls)
 image:
-  teaser: 
+  teaser: http://www.smugmug.com/photos/i-xjVsQVN/1/L/i-xjVsQVN-L.jpg
 ---
 
 This is such an excellent party dish! It’s very colorful appealing to the visual sense and yummy to the palette. You can be creative in terms of the vegetables that you supply. I like a variety of these especially during summer time when you get all these colorful carrots, peppers.
