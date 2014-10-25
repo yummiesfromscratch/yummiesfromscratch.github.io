@@ -5,14 +5,14 @@ image:
   teaser: 
 ---
 
-This ...
+Paella, a Valencian-Cataln word derived from the old French word papelle for "pan". Paella is cooked on a specialized shallow pan and is a great party hosting dish. We often cook it over our BBQ grill in the backyard. You can cut and prepare all of your ingredients ahead of time and while cooking the dish, you can enjoy time talking/entertainig guests sipping over glasses of sangria. 
 
 
-![Dumpling][1]
+![Paella][1]
 
-There has been dispute over the “real creator” of the dish. However, Julia Child’s childhood memories of eating Caesar Salad at Caesar Cardini’s restaurant probably is enough substantial proof. Cardini’s daughter recounted that her father ‘made do’ with what was left in the kitchen on 4th of July 1924 to come up with this now most popular salad dish.
+Most traditional paella consists of meat (chicken and rabbit), land snails, beans and seasoning. However, similar to Mediterranean coast folks, we get awesome seafood living in SF Bay area on the Pacific Coast. Therefore, I like to prepare mine with lots of fresh and live seafood.
 
-Make sure you use good quality mustard and mayonnaise. Or you can make your own mayonnaise here. If I am not entertaining guests, I substitute mayo with olive oil.
+Make sure you get good quality Valencia rice. Whole Foods sell Bomba rice which works very well.
 
 ### Ingredients
 - 2 chicken thigh with bones and skin
