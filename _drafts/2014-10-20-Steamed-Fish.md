@@ -1,21 +1,16 @@
 ---
 layout: post
-title: Steamed Black Cod（蔥薑蒸魚）
+title: Steamed Black Cod Fillet（蔥薑蒸魚）
 image:
   teaser: 
 ---
 
-This ...
-
-
+Steaming fish is probably the most favorite way of cooking fish for Chinese. The steps of steaming a fish are fairly simple but it is often the hardest dish to make it right. 
 ![Steamed Black Cod][1]
-
-There has been dispute over the “real creator” of the dish. However, Julia Child’s childhood memories of eating Caesar Salad at Caesar Cardini’s restaurant probably is enough substantial proof. Cardini’s daughter recounted that her father ‘made do’ with what was left in the kitchen on 4th of July 1924 to come up with this now most popular salad dish.
-
-Make sure you use good quality mustard and mayonnaise. Or you can make your own mayonnaise here. If I am not entertaining guests, I substitute mayo with olive oil.
+This is a great recipe especially for fish fillet of soft fish like black cod or cobia which are much more sustainable fish to consume than the close to extinction Chilean Sea Bass. The sweetness of the daikon balances the flat saltiness of soy sauce and also lightens the fatty fish that we all love.
 
 ### Ingredients
-- ~ 1 lb black code fillet 
+- ~1 lb black code fillet 
 - 2 green onion stalks
 - 1 tsp grated ginger
 - 1 tbsp rice wine
