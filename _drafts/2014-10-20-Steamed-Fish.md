@@ -6,7 +6,10 @@ image:
 ---
 
 Steaming fish is probably the most favorite way of cooking fish for Chinese. The steps of steaming a fish are fairly simple but it is often the hardest dish to make it right. 
+
+
 ![Steamed Black Cod][1]
+
 This is a great recipe especially for fish fillet of soft fish like black cod or cobia which are much more sustainable fish to consume than the close to extinction Chilean Sea Bass. The sweetness of the daikon balances the flat saltiness of soy sauce and also lightens the fatty fish that we all love.
 
 ### Ingredients
