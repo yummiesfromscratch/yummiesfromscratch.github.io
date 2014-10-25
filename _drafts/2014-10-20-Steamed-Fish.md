@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steamed Black Cod
+title: Steamed Black Cod（蔥薑蒸魚）
 image:
   teaser: 
 ---
