@@ -2,7 +2,7 @@
 layout: post
 title: Caesar Salad Dressing
 image:
-  teaser: http://www.smugmug.com/photos/i-5Jgxh3C/0/O/i-5Jgxh3C.jpg
+  teaser: http://photos.smugmug.com//i-5Jgxh3C/0/O/i-5Jgxh3C.jpg
 ---
 
 This is one of my favorite salad to order at the restaurant. It is such a classic dish that if a restaurant cannot be bothered with making their own dressing, a minus star I take away from my Yelp review of the restaurant.

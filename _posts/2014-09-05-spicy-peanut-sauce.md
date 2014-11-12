@@ -2,7 +2,7 @@
 layout: post
 title: Nước Lèo (Spicy Peanut Sauce)
 image:
-  teaser: http://www.smugmug.com/photos/i-JsNWnpF/0/O/i-JsNWnpF.jpg
+  teaser: http://photos.smugmug.com//i-JsNWnpF/0/O/i-JsNWnpF.jpg
 ---
 
 This is an absolute must-have when you make Spring/Summer rolls. The smell of the freshly grounded peanuts ([I always roast and grind my own][2]) is just so aromatic for you peanut lovers.

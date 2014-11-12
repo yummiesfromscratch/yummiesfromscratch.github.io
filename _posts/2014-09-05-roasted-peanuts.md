@@ -2,7 +2,7 @@
 layout: post
 title: Roasted Peanuts
 image:
-  teaser: http://www.smugmug.com/photos/i-XQ6RSB5/0/O/i-XQ6RSB5.jpg
+  teaser: http://photos.smugmug.com//i-XQ6RSB5/0/O/i-XQ6RSB5.jpg
 ---
 
 I remembered as a kid, I used to watch my grandma using a technique called Hot Salt Frying to roast peanuts. The entire house would smell so good from the peanuts and the music made by the crackling peanuts bring back fond memories. However, I also remembered how my grandma used to complain how this cooking technique is damaging to her pots. I suppose I will try one day using my cast iron pans.

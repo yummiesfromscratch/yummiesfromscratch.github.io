@@ -2,7 +2,7 @@
 layout: post
 title: Hainanese Chicken (海南雞)
 image:
-  teaser: http://www.smugmug.com/photos/i-kw9cbWb/1/L/i-kw9cbWb-L.jpg
+  teaser: http://photos.smugmug.com//i-kw9cbWb/1/L/i-kw9cbWb-L.jpg
 ---
 
 海南雞起源於中國的海南島的文昌市．Its origin is based on 白切雞 (boiled chicken) method to cook a specific breed of chicken from Wenchang City (文昌雞). Although since its origin from Hainan, this dish has become especially popular in Singapore and Hong Kong. 這也是我在新加坡的最愛．

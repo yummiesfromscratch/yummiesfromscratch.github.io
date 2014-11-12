@@ -2,7 +2,7 @@
 layout: post
 title: Nước Mắm Chấm (Vietnamese Dipping Sauce)
 image:
-  teaser: http://www.smugmug.com/photos/i-JfM4kKP/1/L/i-JfM4kKP-L.jpg
+  teaser: http://photos.smugmug.com//i-JfM4kKP/1/L/i-JfM4kKP-L.jpg
 ---
 
 This is a very versatile sauce and used in many Vietnamese dishes such as spring rolls, summer rolls, crepes, etc. The sweetness and sourness of the sauce greatly enhances the vegetables and meat/seafood that this sauce is often served with. I can easily take spoonful of this wonderful sauce whenever I eat my spring rolls.
