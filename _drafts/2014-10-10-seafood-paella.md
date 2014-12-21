@@ -2,7 +2,7 @@
 layout: post
 title: Seafood Paella
 image:
-  teaser: 
+  teaser: http://www.smugmug.com/photos/i-KxPtb8N/1/L/i-KxPtb8N-L.jpg
 ---
 
 Paella, a Valencian-Cataln word derived from the old French word papelle for "pan". Paella is cooked on a specialized shallow pan and is a great party hosting dish. We often cook it over our BBQ grill in the backyard. You can cut and prepare all of your ingredients ahead of time and while cooking the dish, you can enjoy time talking/entertainig guests sipping over glasses of sangria. 
@@ -57,4 +57,4 @@ This is made using a Lodge 15" Paella Pan.
 1. serve with garlic aioli
 
 
-[1]: 
+[1]: http://www.smugmug.com/photos/i-rCBNHRh/1/L/i-rCBNHRh-L.jpg
