@@ -48,8 +48,10 @@ This is made using a Lodge 15" Paella Pan.
 1. cut bell pepper into strips
 1. heat paella pan, add olive oil
 1. sear the chicken pieces on all sides, skin down, remove and reserve
+![Sautee Chorizo][3]
 1. sautee chorizo to render some of the fat, remove and reserve
 1. sautee garlic and onion, when soft {~2 min), add tomato (~10 min)
+![Coat Rice with sofrito][4]
 1. add rice and coat with sofrito (garlic/onion/tomato mixture)
 1. pour in the stock that has been steeped in saffron
 1. arrange the seared chicken pieces over the plate and add chorizo
@@ -61,3 +63,5 @@ This is made using a Lodge 15" Paella Pan.
 
 [1]: http://www.smugmug.com/photos/i-rCBNHRh/1/L/i-rCBNHRh-L.jpg
 [2]: http://www.smugmug.com/photos/i-G7j6Nv4/0/M/i-G7j6Nv4-M.jpg
+[3]: http://www.smugmug.com/photos/i-jfR6wcT/0/M/i-jfR6wcT-M.jpg
+[4]: http://www.smugmug.com/photos/i-vXXdbnT/1/M/i-vXXdbnT-M.jpg
