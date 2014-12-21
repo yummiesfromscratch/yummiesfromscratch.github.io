@@ -15,6 +15,8 @@ Most traditional paella consists of meat (chicken and rabbit), land snails, bean
 Make sure you get good quality Valencia rice. Whole Foods sell Bomba rice which works very well.
 This is made using a Lodge 15" Paella Pan.
 
+![Paella Ingredients][2]
+
 ### Ingredients
 - 2 chicken thigh with bones and skin
 - 5 oz Chorizo (3/4 of a 6 oz stick)
@@ -58,3 +60,4 @@ This is made using a Lodge 15" Paella Pan.
 
 
 [1]: http://www.smugmug.com/photos/i-rCBNHRh/1/L/i-rCBNHRh-L.jpg
+[2]: http://www.smugmug.com/photos/i-G7j6Nv4/0/M/i-G7j6Nv4-M.jpg
