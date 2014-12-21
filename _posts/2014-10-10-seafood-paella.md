@@ -13,7 +13,7 @@ Paella, a Valencian-Cataln word derived from the old French word papelle for "pa
 Most traditional paella consists of meat (chicken and rabbit), land snails, beans and seasoning. However, similar to Mediterranean coast folks, we get awesome seafood living in SF Bay area on the Pacific Coast. Therefore, I like to prepare mine with lots of fresh and live seafood.
 
 Make sure you get good quality Valencia rice. Whole Foods sell Bomba rice which works very well.
-This is made using a Lodge 15" Paella Pan.
+This is made using a Lodge 15" Paella Pan and serves 5-6 people.
 
 ![Paella Ingredients][2]
 
@@ -48,11 +48,11 @@ This is made using a Lodge 15" Paella Pan.
 1. cut bell pepper into strips
 1. heat paella pan, add olive oil
 1. sear the chicken pieces on all sides, skin down, remove and reserve
-![Sautee Chorizo][3]
 1. sautee chorizo to render some of the fat, remove and reserve
+![Sautee Chorizo][3]
 1. sautee garlic and onion, when soft {~2 min), add tomato (~10 min)
-![Coat Rice with sofrito][4]
 1. add rice and coat with sofrito (garlic/onion/tomato mixture)
+![Coat Rice with sofrito][4]
 1. pour in the stock that has been steeped in saffron
 1. arrange the seared chicken pieces over the plate and add chorizo
 1. when the water has cooked off 50%, add red bell pepper, squid, clams, scallops
