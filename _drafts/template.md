@@ -12,11 +12,8 @@ Dumpling parties are a great way of making your dinner guests participate in mak
 
 Nothing beats freshly made dumpling skin. Not only is it easier to wrap the filling than the store bought ones, but it is much tastier and has more texture to the taste.
 
-### Dumpling Skin Ingredients
+### Ingredients
 - 300g a/p flour
-
-### Dumpling Filling Ingredients
-- ground pork
 
 ### Instructions
 1. 
