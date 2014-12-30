@@ -2,7 +2,7 @@
 layout: post
 title: Dumpling (水餃)
 image:
-  teaser: 
+  teaser: (720x100)
 ---
 
 Dumpling parties are a great way of making your dinner guests participate in making their food. Dumplings in our house are often made during celebrations such as Chinese New Years where our uncles/aunties would gather together and help to prepare this wonderful and simple dish while us kids roam around the kitchen adding to the festivities.
