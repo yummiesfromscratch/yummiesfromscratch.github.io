@@ -18,7 +18,7 @@ image:
 ### 做法
 1. 將雞放置大鍋，水蓋過雞, 大火煮至滾
 1. 未滾前將表面浮末撈起，加入鹽和薑片
-1. 大滾後，滅火，蓋上鍋蓋，放至25分
+1. 大滾8分後，滅火，蓋上鍋蓋，放至30分
 1. 如果還有看到雞血，再煮滾，滅火，蓋上鍋蓋，放至多5分
 1. 把雞撈起，放入冰水冰鎮* (不要雞肉繼續煮硬)*
 1. 15分後撈起，跺雞上盤
@@ -29,7 +29,7 @@ image:
 1. Bring the chicken and water (covering the whole chicken) to a simmering point in a pot.
 1. Skim off the scum. Add salt and crushed ginger slices.
 1. Bring to a boil and boil for 8 min (5 min on one side, and flip).
-1. Turn off heat, cover with a lid and cook chicken with residual heat for 25 min. (thermometer reading 165 F)
+1. Turn off heat, cover with a lid and cook chicken with residual heat for 30 min. (thermometer reading 165 F)
 1. If the liquid flowing from chicken cavity shows traces of blood, bring to boil again, turn off the heat and cover/cook for another 5 min.  Repeat as necessary.
 1. As soon as the chicken shows no traces of blood, plunge the chicken in a prepared ice water bath to stop the cooking process for 15 min.*
 1. Drain the chicken and chop the chicken when ready to serve.
