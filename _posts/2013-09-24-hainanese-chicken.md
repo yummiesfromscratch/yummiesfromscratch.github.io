@@ -56,6 +56,7 @@ image:
 1. 加入米，鹽，拌均勻
 1. 把炒過的米加雞湯放入電鍋蒸熟
 1. 雞飯加海南雞辣椒醬ㄧ起食用最佳
+1. 用小鍋，加雞湯，醬油，麻油，一點糖 煮滾，淋在雞上
 
 ### Instructions
 1. Fry shallots, garlic, ginger in hot oil in a wok until aromatic.
@@ -66,8 +67,18 @@ image:
 ![Wok][4]
 1. Serve the chicken rice with [chili sauce][5].
 
-[1]: http://media.tumblr.com/bc9505d9bf5515527ee11c3a87293cfe/tumblr_inline_mtn9prpj1a1sn7z7o.jpg
+## Final Preparation, Plating of Chicken
+1. cut tomatoes in wedges
+1. cut cucumber in slices and lay them on top of tomatoes
+1. place chicken pieces on top of the cucumbers and tomatoes
+1. in a small pot, bring some chicken stock, soy sauce, sesame oil, sugar into a boil
+1. drizzle the soy sauce mixture on top of the chicken
+![Hainanese Chicken Rice][6]
+
+
+[1]: http://www.smugmug.com/photos/i-VVrPwkS/0/L/i-VVrPwkS-L.jpg
 [2]: http://media.tumblr.com/dd54fa006b53798d4f08fabb7352d64a/tumblr_inline_mtn9sxW91C1sn7z7o.jpg
 [3]: http://media.tumblr.com/60b650663462d07c793b5181ae7af3c0/tumblr_inline_mtnlgrtgzy1sn7z7o.jpg
 [4]: http://media.tumblr.com/6e6d361bd114a918ec90c7695ea5304d/tumblr_inline_mtnlhiXz1J1sn7z7o.jpg
 [5]: {% post_url 2013-10-01-chili-sauce-for-hainanese-chicken-rice %}
+[6]: http://media.tumblr.com/bc9505d9bf5515527ee11c3a87293cfe/tumblr_inline_mtn9prpj1a1sn7z7o.jpg
