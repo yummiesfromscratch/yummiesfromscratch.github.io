@@ -19,9 +19,11 @@ This will go great with any pie/tart filling, for chocolate, cream, etc.
 - pinch of salt
 
 ### Instructions
+1. Preheat over 350 F.
 1. In a processor, process walnut, dates, baking soda and salt.
 1. Add butter and pulse processor until well blended.
 1. Shape nut mixture on 2 small tart pan.
-
+1. Bake for 15 min (with a pan on the bottom to prevent bottom from burning).
+1. Wait until pie crust cool before carefully removing from pan.
 
 [1]: 
