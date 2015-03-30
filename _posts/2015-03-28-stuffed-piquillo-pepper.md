@@ -32,4 +32,4 @@ You can find them at specialty food stores and typically marinated in olive oil 
 1. Stuff pepper with tuna salad, careful not to overstuff (you do not want to overpower the pepper with tuna salad).
 1. Sprinkle the opening top with paprika for garnish before serving (careful not to powder too much paprika).
 
-[2]:http://www.smugmug.com/photos/i-wpRBmcR/0/M/i-wpRBmcR-M.jpg
+[2]: http://www.smugmug.com/photos/i-wpRBmcR/0/M/i-wpRBmcR-M.jpg
