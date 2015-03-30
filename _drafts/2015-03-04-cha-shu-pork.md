@@ -32,9 +32,9 @@ The pork should be very soft and tender and full of flavor from the marinade. I 
 ![cooking chashu][3]
 1. When ready to serve, remove pork belly and strain broth. Reserve broth for another use (excellent for ajitsuke tamago). Slice pork belly into thin rounds (it might help to cut it in half lengthwise first).
 1. Reheat pork belly slices in soup broth or reheat with a blowtorch (through binchotan), charring its surface. Serve.
-![searing chashu][4][finished chashu][5]
+![searing chashu][4]![finished chashu][5]
 
-[1]: http://www.smugmug.com/photos/i-9BkMFm9/0/M/i-9BkMFm9-M.jpg
+[1]: http://www.smugmug.com/photos/i-j7RngT8/0/L/i-j7RngT8-L.jpg
 [2]: http://www.smugmug.com/photos/i-8fBDLMt/0/M/i-8fBDLMt-M.jpg
 [3]: http://www.smugmug.com/photos/i-QKbBB9X/0/M/i-QKbBB9X-M.jpg
 [4}: http://www.smugmug.com/photos/i-MssBBp9/1/S/i-MssBBp9-S.jpg
