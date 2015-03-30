@@ -2,7 +2,7 @@
 layout: post
 title: Chashu Pork (叉燒)
 image:
-  teaser: http://www.smugmug.com/photos/i-9BkMFm9/1/L/i-9BkMFm9-L.jpg
+  teaser: http://www.smugmug.com/photos/i-9BkMFm9/2/L/i-9BkMFm9-L.jpg
 ---
 
 Chashu pork is a key ingredient on a nice bowl of ramen. It is one of the key ingredients that enhances the ramen experience.
