@@ -37,5 +37,5 @@ The pork should be very soft and tender and full of flavor from the marinade. I 
 [1]: http://www.smugmug.com/photos/i-j7RngT8/0/L/i-j7RngT8-L.jpg
 [2]: http://www.smugmug.com/photos/i-8fBDLMt/0/M/i-8fBDLMt-M.jpg
 [3]: http://www.smugmug.com/photos/i-QKbBB9X/0/M/i-QKbBB9X-M.jpg
-[4}: http://www.smugmug.com/photos/i-MssBBp9/1/S/i-MssBBp9-S.jpg
+[4]: http://www.smugmug.com/photos/i-MssBBp9/1/S/i-MssBBp9-S.jpg
 [5]: http://www.smugmug.com/photos/i-7x8kpH4/1/S/i-7x8kpH4-S.jpg
