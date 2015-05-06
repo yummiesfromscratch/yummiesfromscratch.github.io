@@ -14,13 +14,13 @@ There has been dispute over the “real creator” of the dish. However, Julia C
 
 Make sure you use good quality mustard and mayonnaise. Or you can make your own mayonnaise here. If I am not entertaining guests, I substitute mayo with olive oil.
 
-Yield: 12
+Yield: 11 (medium sized) or 20 (small sized)
 
-### 油酥 Ingredients
+### 油酥 OuterSkin Ingredients
 - 150g cake flour
 - 75g lard
 
-### 油皮 Ingredients
+### 油皮 InnerCrispySkin Ingredients
 - 200g a/p
 - 80g lard
 - 80g water
@@ -38,17 +38,17 @@ Yield: 12
 1. Cook in rice cooker (1 cup water outside) until you can easily break it with fingers.
 1. Add oil to pan, fry cooked mung bean with sugar. Stir until fluffy (~10 min)
 
-1. yopi: mix everything, let rest 25 min
-1. yosu: mix everything
+1. OuterSkin: mix everything, let rest 25 min
+1. InnerCrispySkin: mix everything
 
-1. Divide yopi (35g), yosu (20g) into small pieces
-1. Wrap yosu inside yopi.
+1. Divide OuterSkin (36g), InnerCrispySkin (20g) into 11 small pieces for medium sized pastry or OuterSkin (20g), InnerCrispySkin (11g) into 20 smaller pieces for small sized pastry.
+1. Wrap InnerCrispySkin inside OuterSkin.
 1. Roll out the dough into rectangular strip (doesn't need to be too long).
 1. Then roll it into a roll.
 1. With the closing flag facing upwards, roll out again into rectangular strip (as long as possible). Roll into a roll.
 1. Rest 15 min.
 
-1. Roll the dough out and wrap mung bean filling (~50g each).
+1. Roll the dough out and wrap mung bean filling (~50g each for medium sized pastry or ~25g for small sized pastry).
 1. Flatten a little bit and decorate with a red mark.
 
 1. Bake 350F for 25 min.
