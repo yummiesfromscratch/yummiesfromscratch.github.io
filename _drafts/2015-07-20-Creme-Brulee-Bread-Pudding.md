@@ -7,7 +7,7 @@ image:
 
 This is a great simple dessert for your leftover bread!! I prefer using either brioche or challah. But do beware, this is definitely not diet friendly!!
 
-![breadpudding][1]
+![breadpudding][2]
 
 It is best prepared ahead of time and let the bread soak in the cream.
 
@@ -33,6 +33,9 @@ It is best prepared ahead of time and let the bread soak in the cream.
 1. Bake for 40-50 minutes or until custard has set and the top is golden brown.
 1. If the top is browning too fast, cover loosely with aluminum foil. (Don’t over bake or the bread will be dry.)
 1. Let the pudding cool for 30 minutes so that bread contracts.
+![Brulee][3]
 1. Sprinkle sugar over the top in an even layer and using a torch, cook until sugar melts.
 
 [1]: https://photos.smugmug.com/photos/i-3kKfKMW/1/M/i-3kKfKMW-M.jpg
+[2]: https://photos.smugmug.com/photos/i-Pc7GQs6/0/M/i-Pc7GQs6-M.jpg
+[3]: https://photos.smugmug.com/photos/i-ZhF4P5b/2/M/i-ZhF4P5b-M.jpg
