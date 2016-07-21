@@ -35,4 +35,4 @@ It is best prepared ahead of time and let the bread soak in the cream.
 1. Let the pudding cool for 30 minutes so that bread contracts.
 1. Sprinkle sugar over the top in an even layer and using a torch, cook until sugar melts.
 
-[1]: 
+[1]: https://photos.smugmug.com/photos/i-3kKfKMW/1/M/i-3kKfKMW-M.jpg
