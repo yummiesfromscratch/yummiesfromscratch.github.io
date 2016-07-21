@@ -9,7 +9,7 @@ This is a great simple dessert for your leftover bread!! I prefer using either b
 
 ![breadpudding][2]
 
-It is best prepared ahead of time and let the bread soak in the cream.
+You can prepare this ahead of time and prior to serving, brulee the top for a great, impressive dessert!
 
 ### Ingredients
 - 1 lb day old bread cut into 2-inch cubes
