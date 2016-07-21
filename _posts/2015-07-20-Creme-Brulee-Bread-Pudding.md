@@ -36,6 +36,8 @@ You can prepare this ahead of time and prior to serving, brulee the top for a gr
 1. Let the pudding cool for 30 minutes so that bread contracts.
 ![Brulee][2]
 1. Sprinkle sugar over the top in an even layer and using a torch, cook until sugar melts.
+![Finished Product][3]
 
 [1]: https://photos.smugmug.com/photos/i-Pc7GQs6/0/M/i-Pc7GQs6-M.jpg
 [2]: https://photos.smugmug.com/photos/i-ZhF4P5b/2/M/i-ZhF4P5b-M.jpg
+[3]: https://photos.smugmug.com/photos/i-T6DXNSj/0/M/i-T6DXNSj-M.jpg
