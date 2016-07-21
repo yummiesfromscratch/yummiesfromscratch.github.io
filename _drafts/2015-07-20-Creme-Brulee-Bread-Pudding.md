@@ -2,7 +2,7 @@
 layout: post
 title: Creme Brulee Bread Pudding
 image:
-  teaser: (720x100)
+  teaser: https://photos.smugmug.com/photos/i-3kKfKMW/1/M/i-3kKfKMW-M.jpg
 ---
 
 This is a great simple dessert for your leftover bread!! I prefer using either brioche or challah. But do beware, this is definitely not diet friendly!!
@@ -36,6 +36,5 @@ It is best prepared ahead of time and let the bread soak in the cream.
 ![Brulee][3]
 1. Sprinkle sugar over the top in an even layer and using a torch, cook until sugar melts.
 
-[1]: https://photos.smugmug.com/photos/i-3kKfKMW/1/M/i-3kKfKMW-M.jpg
 [2]: https://photos.smugmug.com/photos/i-Pc7GQs6/0/M/i-Pc7GQs6-M.jpg
 [3]: https://photos.smugmug.com/photos/i-ZhF4P5b/2/M/i-ZhF4P5b-M.jpg
