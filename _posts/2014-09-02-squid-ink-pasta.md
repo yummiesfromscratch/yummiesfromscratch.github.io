@@ -2,7 +2,7 @@
 layout: post
 title: Squid Ink Pasta
 image:
-  teaser: http://photos.smugmug.com//i-wsLHvgn/1/L/i-wsLHvgn-L.jpg
+  teaser: https://photos.smugmug.com//i-wsLHvgn/1/L/i-wsLHvgn-L.jpg
 ---
 
 Squid Ink pasta has become a trendy and popular dish in the US. This has become a favorite of mine as well as lots of my friends. The ‘seafood umami’ taste that the squid ink adds to the egg rich noodle is a definite plus.
@@ -35,7 +35,7 @@ Suggested Serving Size: 4
 
 Note: the dough can be made 24 hour in advance and kept in the fridge. Take the dough and rest in room temperature for 30 min prior to shaping/cutting it.
 
-[1]: http://media.tumblr.com/38a5d77de2268a5cafafdf508f94fdf4/tumblr_inline_nbaenzaDXU1sn7z7o.jpg
-[2]: http://media.tumblr.com/b7bed824c0c64ac689ffab2293208560/tumblr_inline_nbaf93IlAO1sn7z7o.jpg
-[3]: http://media.tumblr.com/fe24a3c0842958e6a66050ff4cc8342a/tumblr_inline_nbaf8ig9QH1sn7z7o.jpg
-[4]: http://media.tumblr.com/9ce207dffd7f74a31d1d36cdabf01076/tumblr_inline_nbafb5pcxO1sn7z7o.jpg
+[1]: https://media.tumblr.com/38a5d77de2268a5cafafdf508f94fdf4/tumblr_inline_nbaenzaDXU1sn7z7o.jpg
+[2]: https://media.tumblr.com/b7bed824c0c64ac689ffab2293208560/tumblr_inline_nbaf93IlAO1sn7z7o.jpg
+[3]: https://media.tumblr.com/fe24a3c0842958e6a66050ff4cc8342a/tumblr_inline_nbaf8ig9QH1sn7z7o.jpg
+[4]: https://media.tumblr.com/9ce207dffd7f74a31d1d36cdabf01076/tumblr_inline_nbafb5pcxO1sn7z7o.jpg

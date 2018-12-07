@@ -2,7 +2,7 @@
 layout: post
 title: Chashu Pork (叉燒)
 image:
-  teaser: http://www.smugmug.com/photos/i-9BkMFm9/2/L/i-9BkMFm9-L.jpg
+  teaser: https://www.smugmug.com/photos/i-9BkMFm9/2/L/i-9BkMFm9-L.jpg
 ---
 
 Chashu pork is a key ingredient on a nice bowl of ramen. It is one of the key ingredients that enhances the ramen experience.
@@ -34,8 +34,8 @@ The pork should be very soft and tender and full of flavor from the marinade. I 
 1. Reheat pork belly slices in soup broth or reheat with a blowtorch (through binchotan), charring its surface. Serve.
 ![searing chashu][4]![finished chashu][5]
 
-[1]: http://www.smugmug.com/photos/i-j7RngT8/0/L/i-j7RngT8-L.jpg
-[2]: http://www.smugmug.com/photos/i-8fBDLMt/0/M/i-8fBDLMt-M.jpg
-[3]: http://www.smugmug.com/photos/i-QKbBB9X/0/M/i-QKbBB9X-L.jpg
-[4]: http://www.smugmug.com/photos/i-MssBBp9/1/S/i-MssBBp9-S.jpg
-[5]: http://www.smugmug.com/photos/i-7x8kpH4/1/S/i-7x8kpH4-S.jpg
+[1]: https://www.smugmug.com/photos/i-j7RngT8/0/L/i-j7RngT8-L.jpg
+[2]: https://www.smugmug.com/photos/i-8fBDLMt/0/M/i-8fBDLMt-M.jpg
+[3]: https://www.smugmug.com/photos/i-QKbBB9X/0/M/i-QKbBB9X-L.jpg
+[4]: https://www.smugmug.com/photos/i-MssBBp9/1/S/i-MssBBp9-S.jpg
+[5]: https://www.smugmug.com/photos/i-7x8kpH4/1/S/i-7x8kpH4-S.jpg

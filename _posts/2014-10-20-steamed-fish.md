@@ -2,7 +2,7 @@
 layout: post
 title: Steamed Black Cod Fillet（蔥薑蒸魚）
 image:
-  teaser: http://www.smugmug.com/photos/i-4sBmjGQ/1/L/i-4sBmjGQ-L.jpg
+  teaser: https://www.smugmug.com/photos/i-4sBmjGQ/1/L/i-4sBmjGQ-L.jpg
 ---
 
 Steaming fish is probably the most favorite way of cooking fish for Chinese. The steps of steaming a fish are fairly simple but it is often the hardest dish to make it right. 
@@ -37,6 +37,6 @@ This is a great recipe especially for fish fillet of soft fish like black cod or
 1. Heat 1/2 oil and 1/2 sesame oil
 1. Drizzle over fish with green onion on top
 
-[1]: http://www.smugmug.com/photos/i-vkVKtrK/0/L/i-vkVKtrK-L.jpg
-[2]: http://www.smugmug.com/photos/i-MjLR7zQ/0/L/i-MjLR7zQ-L.jpg
-[3]: http://www.smugmug.com/photos/i-xjn2ztD/0/L/i-xjn2ztD-L.jpg
+[1]: https://www.smugmug.com/photos/i-vkVKtrK/0/L/i-vkVKtrK-L.jpg
+[2]: https://www.smugmug.com/photos/i-MjLR7zQ/0/L/i-MjLR7zQ-L.jpg
+[3]: https://www.smugmug.com/photos/i-xjn2ztD/0/L/i-xjn2ztD-L.jpg

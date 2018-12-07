@@ -2,7 +2,7 @@
 layout: post
 title: Roasted Peanuts
 image:
-  teaser: http://photos.smugmug.com//i-XQ6RSB5/0/O/i-XQ6RSB5.jpg
+  teaser: https://photos.smugmug.com//i-XQ6RSB5/0/O/i-XQ6RSB5.jpg
 ---
 
 I remembered as a kid, I used to watch my grandma using a technique called Hot Salt Frying to roast peanuts. The entire house would smell so good from the peanuts and the music made by the crackling peanuts bring back fond memories. However, I also remembered how my grandma used to complain how this cooking technique is damaging to her pots. I suppose I will try one day using my cast iron pans.
@@ -33,7 +33,7 @@ Pulse for 3 seconds to coarse powder.
 
 ![Ground Peanuts][3]
 
-[1]: http://media.tumblr.com/5fb71a7cba6240d77054d07a78cbf91e/tumblr_inline_nbfxifXTd11sn7z7o.jpg
-[2]: http://media.tumblr.com/f7275f2423ce0c00084b73b220bf8073/tumblr_inline_nbfxjtO5CN1sn7z7o.jpg
-[3]: http://media.tumblr.com/eb3e7b5e0922c568386d6efaa802e4c1/tumblr_inline_nbfxk55cYV1sn7z7o.jpg
+[1]: https://media.tumblr.com/5fb71a7cba6240d77054d07a78cbf91e/tumblr_inline_nbfxifXTd11sn7z7o.jpg
+[2]: https://media.tumblr.com/f7275f2423ce0c00084b73b220bf8073/tumblr_inline_nbfxjtO5CN1sn7z7o.jpg
+[3]: https://media.tumblr.com/eb3e7b5e0922c568386d6efaa802e4c1/tumblr_inline_nbfxk55cYV1sn7z7o.jpg
 

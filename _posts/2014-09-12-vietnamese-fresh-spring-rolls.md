@@ -2,7 +2,7 @@
 layout: post
 title: Gỏi Cuốn (Vietnamese Fresh Spring Rolls)
 image:
-  teaser: http://photos.smugmug.com//i-xjVsQVN/1/L/i-xjVsQVN-L.jpg
+  teaser: https://photos.smugmug.com//i-xjVsQVN/1/L/i-xjVsQVN-L.jpg
 ---
 
 This is such an excellent party dish! It’s very colorful appealing to the visual sense and yummy to the palette. You can be creative in terms of the vegetables that you supply. I like a variety of these especially during summer time when you get all these colorful carrots, peppers.
@@ -34,5 +34,5 @@ Picking a good rice paper is also very important as these will make your life ei
 
 ![Spring Roll Assembly Station][2]
 
-[1]: http://media.tumblr.com/05c34af6fdbdf3374eca67b696070f4f/tumblr_inline_nbsx52jEz41sn7z7o.jpg
-[2]: http://media.tumblr.com/8e12fc53be240e8d026ea3b6a44816a8/tumblr_inline_nbt6kwH6pT1sn7z7o.jpg
+[1]: https://media.tumblr.com/05c34af6fdbdf3374eca67b696070f4f/tumblr_inline_nbsx52jEz41sn7z7o.jpg
+[2]: https://media.tumblr.com/8e12fc53be240e8d026ea3b6a44816a8/tumblr_inline_nbt6kwH6pT1sn7z7o.jpg

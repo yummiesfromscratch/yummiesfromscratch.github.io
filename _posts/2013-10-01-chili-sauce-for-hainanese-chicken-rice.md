@@ -2,7 +2,7 @@
 layout: post
 title: Chili Sauce for Hainanese Chicken Rice (海南雞飯辣椒醬)
 image:
-  teaser: http://photos.smugmug.com//i-sqk5wrP/1/L/i-sqk5wrP-L.jpg
+  teaser: https://photos.smugmug.com//i-sqk5wrP/1/L/i-sqk5wrP-L.jpg
 ---
 
 Hainanese Chicken Rice isn’t complete without these yummy sauces!! WARNING!! Make sure you wear gloves when cutting/seeding chili peppers!!  I seeded 7 serrano chili peppers yesterday and my hands are still burning today!!  I had to ask hubby (much obliged) to help at shower time because my hands couldn’t stand the hot running water which I normally enjoy so much…
@@ -56,5 +56,5 @@ Hainanese Chicken Rice isn’t complete without these yummy sauces!! WARNING!! M
 1. Mix chicken stock to the desired consistency.
 1. Serve with [Hainan Chicken Rice][2].
 
-[1]: http://media.tumblr.com/47baff737176a8dff2d2af63e9a96350/tumblr_inline_mtz4vaQuSB1sn7z7o.jpg
+[1]: https://media.tumblr.com/47baff737176a8dff2d2af63e9a96350/tumblr_inline_mtz4vaQuSB1sn7z7o.jpg
 [2]: {% post_url 2013-09-24-hainanese-chicken | relative_url %}

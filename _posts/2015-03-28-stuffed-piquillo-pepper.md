@@ -2,7 +2,7 @@
 layout: post
 title: Stuffed Piquillo Pepper with Smoked Paprika Tuna Salad
 image:
-  teaser: http://www.smugmug.com/photos/i-dr7MVqh/1/L/i-dr7MVqh-L.jpg
+  teaser: https://www.smugmug.com/photos/i-dr7MVqh/1/L/i-dr7MVqh-L.jpg
 ---
 
 Piquillo peppers are a favorite of mine. They are great in paella. However, you can especially taste the sweetness in this antipasto dish.
@@ -32,4 +32,4 @@ You can find them at specialty food stores and typically marinated in olive oil 
 1. Stuff pepper with tuna salad, careful not to overstuff (you do not want to overpower the pepper with tuna salad).
 1. Sprinkle the opening top with paprika for garnish before serving (careful not to powder too much paprika).
 
-[1]: http://www.smugmug.com/photos/i-wpRBmcR/0/M/i-wpRBmcR-M.jpg
+[1]: https://www.smugmug.com/photos/i-wpRBmcR/0/M/i-wpRBmcR-M.jpg

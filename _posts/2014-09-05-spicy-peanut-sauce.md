@@ -2,7 +2,7 @@
 layout: post
 title: Nước Lèo (Spicy Peanut Sauce)
 image:
-  teaser: http://photos.smugmug.com//i-JsNWnpF/0/O/i-JsNWnpF.jpg
+  teaser: https://photos.smugmug.com//i-JsNWnpF/0/O/i-JsNWnpF.jpg
 ---
 
 This is an absolute must-have when you make Spring/Summer rolls. The smell of the freshly grounded peanuts ([I always roast and grind my own][2]) is just so aromatic for you peanut lovers.
@@ -31,5 +31,5 @@ Yield: 2 cups
 1. Finally, add the roasted peanuts.
 1. For an extra kick, add some crushed red pepper flakes.
 
-[1]: http://media.tumblr.com/560a9bca0a4557154deab73d109d6e9b/tumblr_inline_nbfwslCall1sn7z7o.jpg
+[1]: https://media.tumblr.com/560a9bca0a4557154deab73d109d6e9b/tumblr_inline_nbfwslCall1sn7z7o.jpg
 [2]: {% post_url 2014-09-05-roasted-peanuts | relative_url %}
