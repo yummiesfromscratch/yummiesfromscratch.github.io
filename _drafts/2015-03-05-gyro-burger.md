@@ -32,4 +32,4 @@ Serving Size: 3-4
 1. Transfer patties to toasted buns, top with a spoonful of [tzatziki][2] and a few slices of peperoncini. Serve immediately.
 
 [1]: 
-[2]: {% post_url 2015-03-04-tzatziki | relative_url %}
+[2]: {% post_url 2015-03-04-tzatziki %}

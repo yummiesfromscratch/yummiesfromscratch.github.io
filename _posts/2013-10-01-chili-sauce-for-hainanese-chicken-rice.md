@@ -57,4 +57,4 @@ Hainanese Chicken Rice isn’t complete without these yummy sauces!! WARNING!! M
 1. Serve with [Hainan Chicken Rice][2].
 
 [1]: https://media.tumblr.com/47baff737176a8dff2d2af63e9a96350/tumblr_inline_mtz4vaQuSB1sn7z7o.jpg
-[2]: {% post_url 2013-09-24-hainanese-chicken | relative_url %}
+[2]: {% post_url 2013-09-24-hainanese-chicken %}
