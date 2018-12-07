@@ -35,6 +35,14 @@ image:
 1. Drain the chicken and chop the chicken when ready to serve.
 1. Reserve the chicken stock for the rice.
 
+### Sous Vide Instructions
+1. Put pre-brined bonless chicken thigh/legs into a gallon size ziplock bag (3 per bag) or use vaccum seal bags
+1. add 2 slices of ginger and 1 stalk of green onion
+1. Setup sous vide machine at 72 degrees celsius
+1. Immerse the bags into sous vide pot and cook for an hour and half
+1. Once the chicken is cooked, remove the bags and plunge into a prepared ice water bath
+1. Cut and prepare chicken and top with soy sauce/chicken stock/sesame oil topping
+
 \* Plunging the chicken in ice bath is critical to prevent the chicken from being overcooked and tough. It also helps to coagulate the gelatin.
 
 ![Hainanese Chicken Rice][2]
