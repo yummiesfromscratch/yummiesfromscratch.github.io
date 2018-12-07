@@ -88,5 +88,5 @@ image:
 [2]: http://media.tumblr.com/dd54fa006b53798d4f08fabb7352d64a/tumblr_inline_mtn9sxW91C1sn7z7o.jpg
 [3]: http://media.tumblr.com/60b650663462d07c793b5181ae7af3c0/tumblr_inline_mtnlgrtgzy1sn7z7o.jpg
 [4]: http://media.tumblr.com/6e6d361bd114a918ec90c7695ea5304d/tumblr_inline_mtnlhiXz1J1sn7z7o.jpg
-[5]: {% post_url 2013-10-01-chili-sauce-for-hainanese-chicken-rice %}
+[5]: {% post_url 2013-10-01-chili-sauce-for-hainanese-chicken-rice | relative_url %}
 [6]: http://media.tumblr.com/bc9505d9bf5515527ee11c3a87293cfe/tumblr_inline_mtn9prpj1a1sn7z7o.jpg

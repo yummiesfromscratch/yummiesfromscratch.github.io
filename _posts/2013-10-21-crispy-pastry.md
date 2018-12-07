@@ -44,7 +44,7 @@ see [red bean paste filling][2] for recipe on filling
 1. Bake 335&deg;F for 10 min, flip, then another 10 min
 
 [1]: http://media.tumblr.com/a5202ed7f97957ccbb8d762c4cba94ed/tumblr_inline_mv1gd3indq1sn7z7o.jpg
-[2]: {% post_url 2013-09-27-red-bean-paste %}
+[2]: {% post_url 2013-09-27-red-bean-paste | relative_url %}
 [3]: http://media.tumblr.com/eda7f46874a17019a18b422c004bf3e1/tumblr_inline_mv1hr1JieC1sn7z7o.jpg
 [4]: http://media.tumblr.com/a7d8238108b51388313e98deca6dd06c/tumblr_inline_mv1gkyddxh1sn7z7o.jpg
 [5]: http://media.tumblr.com/a84f674d6af6956b2d9b357ab51884f2/tumblr_inline_mv1gipXOxR1sn7z7o.jpg

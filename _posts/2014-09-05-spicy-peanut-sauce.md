@@ -32,4 +32,4 @@ Yield: 2 cups
 1. For an extra kick, add some crushed red pepper flakes.
 
 [1]: http://media.tumblr.com/560a9bca0a4557154deab73d109d6e9b/tumblr_inline_nbfwslCall1sn7z7o.jpg
-[2]: {% post_url 2014-09-05-roasted-peanuts %}
+[2]: {% post_url 2014-09-05-roasted-peanuts | relative_url %}
