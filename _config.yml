@@ -1,8 +1,10 @@
 # Dependencies
 markdown:         kramdown
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            閒燴
