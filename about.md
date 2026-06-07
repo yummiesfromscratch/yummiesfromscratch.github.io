@@ -9,8 +9,9 @@ title: About Me
 
 Just like 90% of folks living in Silicon Valley, I also work in high tech.
 
-Having worked 12 years at the same tech company following college, I took time off and bought a bakery. Crazy huh…  not really considering it was still the cheaper option to attending B-school.  :)
+Worked the first 12 years at the same tech company following college, I took time off and bought a bakery. Crazy huh…  not really considering it was still the cheaper option to attending B-school.  :)
+Went through the next job and delivered a baby then went through hell (haha) and then quit and became full time mom for 6 years, during which delivered another baby angel. Now back at the workplace...
 
-I am now back in the work force and with a very environmental and health conscious husband who wants to know how cave men/women lived. Any free time we have, I research on how things were made FROM SCRATCH.
+COVID was not kind...  Now a single mom and brain washed by an ex that was very environmental and health conscious who probably wished he were living in cave men/women period. Any free time we have, I research on how things were made FROM SCRATCH.
 
 Hopefully these wonderful dishes and the natural tastes can continue to be made from scratch in the many kitchens around us.
